@@ -28,15 +28,15 @@
 > - (https://github.com/Hema-10/Notes_Generator)
 >
 > - Kindly submit the Live Application URL (Domain)
-> - (https://vercel.com/priyahema410-8534s-projects/notes-generator-zfdu)
+> - (https://notes-generator-zfdu.vercel.app/)
 >
 > - Kindly submit the GitHub Pages (Documentation) URL
-> - (https://github.com/Hema-10/Notes_Generator)
+> - (https://github.com/abivathan42/Notes_Generator/blob/main/README.md)
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> [https://www.linkedin.com/feed/update/urn:li:activity:7444968968039329794/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEg0KUBXhuUIZm-HI2xVBC5dZ70yxoLUiI]
 
 ## For Second Year Buddies
 
